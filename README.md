@@ -14,11 +14,11 @@ maximum developer points.
 
 Here's what we'll be doing:
 
-### Signing up for github and learning about git
-### Forking and publishing our first project on github
-### Overview of basic HTML concepts
-### Overview of CSS concepts
-#### maybe we will setup our dev environments if we have time
+#### Signing up for github and learning about git
+#### Forking and publishing our first project on github
+#### Overview of basic HTML concepts
+#### Overview of CSS concepts
+##### maybe we will setup our dev environments if we have time
 
 
 ## Signing up for Github!
@@ -58,7 +58,7 @@ https://github.com/jlord/hello
   4. Change the font by finding a google font.
 
 
-#Questions! 
+#Questions!
 
 
 ## Download Atom?
