@@ -5,7 +5,7 @@
 2. Help neighbors if you are ahead and they are struggling
 3. Ask another question
 
-[Lets read this and talk about it for a second]("https://s3-eu-west-1.amazonaws.com/teaching-programming/TopFiveMistakesWhenProgramming.png")
+https://s3-eu-west-1.amazonaws.com/teaching-programming/TopFiveMistakesWhenProgramming.png
 
 ## Overview
 Our goal this week is to get build a website and publish it to the web. In order
