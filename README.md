@@ -5,6 +5,7 @@
 2. Help neighbors if you are ahead and they are struggling
 3. Ask another question
 
+[https://s3-eu-west-1.amazonaws.com/teaching-programming/TopFiveMistakesWhenProgramming.png](Lets read this and talk about it for a second)
 
 ## Overview
 Our goal this week is to get build a website and publish it to the web. In order
@@ -18,20 +19,24 @@ Here's what we'll be doing:
 ####  -Forking and publishing our first project on github
 ####  -Overview of basic HTML concepts
 ####  -Overview of CSS concepts
-#####  -maybe we will setup our dev environments if we have time
+maybe we will setup our dev environments if we have time*
 
 
-## Signing up for Github!
-Click the green signup button on the top of this page and open it in a new tab.
+
+
+
+# Signing up for Github!
+1. Click the green signup button on the top of this page and open it in a new tab.
 Signup for your github then come back to this tab and refresh your browser account
 and find your way back to this page!
 
-### What is git?
-Video time!
+2. What is git?
 https://www.youtube.com/watch?v=_Jmkvv_nKTE
 
 
-## Lets Fork our first project on Github!
+
+
+# Lets Fork our first project on Github!
 What does it mean to fork?
 
 "A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project. Most commonly, forks are used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea."
@@ -40,13 +45,17 @@ What are fork-n-go projects?
 http://jlord.us/sheetsee.js/docs/fork-n-go.html
 
 
-Fork this project!
+Lets fork this project!
 https://github.com/jlord/hello
 
 
 ## Overview of HTML
   1. Talk through index.html file
+    a. Tags
+    b. Structure of an HTML page
+    c. Headings, Div's, img's and href's
   2. Edit index.html file
+    a. don't be Scared!
   3. Write a commit message
   4. Commit file
 
@@ -70,7 +79,7 @@ http://brew.sh/
 
 ## Download Git?
   Mac:
-  <```brew install git```>
+  ```brew install git``''
 
   Windows:
   https://git-scm.com/book/en/v2/Getting-Started-Installing-Git#Installing-on-Windows
