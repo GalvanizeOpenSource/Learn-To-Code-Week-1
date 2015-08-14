@@ -5,7 +5,7 @@
 2. Help neighbors if you are ahead and they are struggling
 3. Ask another question
 
-[https://s3-eu-west-1.amazonaws.com/teaching-programming/TopFiveMistakesWhenProgramming.png](Lets read this and talk about it for a second)
+(Lets read this and talk about it for a second)[https://s3-eu-west-1.amazonaws.com/teaching-programming/TopFiveMistakesWhenProgramming.png]
 
 ## Overview
 Our goal this week is to get build a website and publish it to the web. In order
@@ -59,10 +59,14 @@ https://github.com/jlord/hello
   3. Write a commit message
   4. Commit file
 
+
 ## Overview of CSS
 
   1. Talk through style.css file
-  2. Switch css reference in the index.html page to style2.css
+    a. Tags VS Classes
+    b. CSS Heirarchy
+    c. inline styling
+  2. Switch css reference in the index.html page to style.css
   3. Change the background color
   4. Change the font by finding a google font.
 
@@ -70,6 +74,8 @@ https://github.com/jlord/hello
 
 #Questions!
 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ## Download Atom?
   https://atom.io/
@@ -79,11 +85,13 @@ http://brew.sh/
 
 ## Download Git?
   Mac:
-  ```brew install git``''
+  ```brew install git```
 
   Windows:
   https://git-scm.com/book/en/v2/Getting-Started-Installing-Git#Installing-on-Windows
 
-## Setting up git to work with your github account!
+Setting up git to work with your github account
+https://help.github.com/articles/set-up-git/#setting-up-git
 
-  https://help.github.com/articles/set-up-git/#setting-up-git
+Setting up your SSH Keys:
+https://help.github.com/articles/generating-ssh-keys/
