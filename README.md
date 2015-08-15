@@ -25,7 +25,7 @@ maybe we will setup our dev environments if we have time*
 
 
 
-# Signing up for Github!
+# Signing up for GitHub!
 1. Click the green signup button on the top of this page and open it in a new tab.
 Signup for your github then come back to this tab and refresh your browser account
 and find your way back to this page!
