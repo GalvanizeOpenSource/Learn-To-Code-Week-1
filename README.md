@@ -31,9 +31,10 @@ Signup for your github then come back to this tab and refresh your browser accou
 and find your way back to this page!
 
 2. What is git?
-https://www.youtube.com/watch?v=_Jmkvv_nKTE
-
-
+- Version Control Software
+- Web Based
+- Open Source
+- Fun Fact, GitHub uses Github to manage GitHub
 
 
 # Lets Fork our first project on Github!
@@ -73,25 +74,3 @@ https://github.com/jlord/hello
 
 
 #Questions!
-
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-## Download Atom?
-  https://atom.io/
-
-## Download Homebrew (if you have a mac)
-http://brew.sh/
-
-## Download Git?
-  Mac:
-  ```brew install git```
-
-  Windows:
-  https://git-scm.com/book/en/v2/Getting-Started-Installing-Git#Installing-on-Windows
-
-Setting up git to work with your github account
-https://help.github.com/articles/set-up-git/#setting-up-git
-
-Setting up your SSH Keys:
-https://help.github.com/articles/generating-ssh-keys/
