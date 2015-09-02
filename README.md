@@ -5,49 +5,51 @@
 2. Help neighbors if you are ahead and they are struggling
 3. Ask another question
 
-https://s3-eu-west-1.amazonaws.com/teaching-programming/TopFiveMistakesWhenProgramming.png
 
 ## Overview
-Our goal this week is to get build a website and publish it to the web. In order
-to accomplish that goal we'll first need to setup a github account. If we have
-time, we'll setup our developer environment and link it to our github account for
-maximum developer points.
+Our goal this week is to setup our developer environment and link it to our github account for
+maximum developer points. We'll also download the Atom text editor and get next weeks
+curriculum on our computer.
+
+
 
 Here's what we'll be doing:
 
-####  -Signing up for github and learning about git
-####  -Forking and publishing our first project on github
-####  -Overview of basic HTML concepts
-####  -Overview of CSS concepts
-maybe we will setup our dev environments if we have time*
+#### Signing up for github and learning about git
+#### Forking and cloning our first project
+#### Overview of basic HTML concepts
+#### Overview of CSS concepts
 
 
-
-
-
-# Signing up for GitHub!
-1. Click the green signup button on the top of this page and open it in a new tab.
+## Signing up for Github!
+Click the green signup button on the top of this page and open it in a new tab.
 Signup for your github then come back to this tab and refresh your browser account
 and find your way back to this page!
 
-2. What is git?
-- Version Control Software
-- Web Based
-- Open Source
-- Fun Fact, GitHub uses Github to manage GitHub
+### What is git?
+Git is a piece of software that allows you to edit and collaborate on projects
+regardless of your teams location. With Git, you and your team can all be working
+on the same codebase without having to worry about who's doing what in which order.
 
+Download Atom
+https://atom.io/
 
-# Lets Fork our first project on Github!
-What does it mean to fork?
+Mac:
+Download Homebrew (if you have a mac)
+http://brew.sh/
 
-"A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project. Most commonly, forks are used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea."
+Download Git
+```brew install git```
 
-What are fork-n-go projects?
-http://jlord.us/sheetsee.js/docs/fork-n-go.html
+Windows:
+https://git-scm.com/book/en/v2/Getting-Started-Installing-Git#Installing-on-Windows
 
+Setting up git to work with your github account https://help.github.com/articles/set-up-git/#setting-up-git
 
-Lets fork this project!
-https://github.com/jlord/hello
+Setting up your SSH Keys: https://help.github.com/articles/generating-ssh-keys/
+
+## Lets Fork our first project on Github!
+Click the fork button on the top right of this page!
 
 
 ## Overview of HTML
