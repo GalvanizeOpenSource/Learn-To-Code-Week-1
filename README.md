@@ -42,7 +42,11 @@ Download Git
 ```brew install git```
 
 Windows:
-https://git-scm.com/book/en/v2/Getting-Started-Installing-Git#Installing-on-Windows
+Click "Clone in Desktop"
+-Follow Prompts to install
+
+
+
 
 Setting up git to work with your github account https://help.github.com/articles/set-up-git/#setting-up-git
 
