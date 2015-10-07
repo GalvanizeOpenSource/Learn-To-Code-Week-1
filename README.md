@@ -17,25 +17,6 @@ Here's what we'll be doing:
 #### Overview of CSS concepts
 
 
-## Signing up for Github!
-Click the green signup button on the top of this page and open it in a new tab.
-Signup for your github then come back to this tab and refresh your browser account
-and find your way back to this page!
-
-### What is git?
-Git is a piece of software that allows you to edit and collaborate on projects
-regardless of your teams location. With Git, you and your team can all be working
-on the same codebase without having to worry about who's doing what in which order.
-
-Download Atom
-https://atom.io/
-
-Click "Clone in Desktop"
--Follow Prompts to install
-
-## Lets Fork our first project on Github!
-Click the fork button on the top right of this page!
-
 
 ## Overview of HTML
 - tags
@@ -45,7 +26,7 @@ Click the fork button on the top right of this page!
 ####HTML tags:
 Tags are used to mark up the beginning and end of an HTML element.
 
-```
+```html
 <div></div>
 ```
 
@@ -72,8 +53,44 @@ are
 - id's vs Classes
 - syntax
 
+####Specificity
+What Does CSS Stand for?
 
 
+####id's vs Classes
+Classes are used when you need to style multiple elemnets in a document, while
+id's are used to style specific elements on a page.
 
+####Syntax
+Lets look at how to style an element!
+
+```html
+<p class="coolThings">Cool Things</p>
+```
+Now lets look at the css!
+```css
+.coolThings {
+  font-size: 24px;
+}
+```
+
+## Signing up for Github!
+Click the green signup button on the top of this page and open it in a new tab.
+Signup for your github then come back to this tab and refresh your browser account
+and find your way back to this page!
+
+### What is git?
+Git is a piece of software that allows you to edit and collaborate on projects
+regardless of your teams location. With Git, you and your team can all be working
+on the same codebase without having to worry about who's doing what in which order.
+
+Download Atom
+https://atom.io/
+
+Click "Clone in Desktop"
+-Follow Prompts to install
+
+## Lets Fork our first project on Github!
+Click the fork button on the top right of this page!
 
 #Questions!
