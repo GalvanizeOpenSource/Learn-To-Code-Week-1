@@ -1,9 +1,5 @@
 # Learn-To-Code-Week-1
 
-## Ground Rules
-1. Ask at least one question
-2. Help neighbors if you are ahead and they are struggling
-3. Ask another question
 
 
 ## Overview
@@ -34,48 +30,49 @@ on the same codebase without having to worry about who's doing what in which ord
 Download Atom
 https://atom.io/
 
-Mac:
-Download Homebrew (if you have a mac)
-http://brew.sh/
-
-Download Git
-```brew install git```
-
-Windows:
 Click "Clone in Desktop"
 -Follow Prompts to install
-
-
-
-
-Setting up git to work with your github account https://help.github.com/articles/set-up-git/#setting-up-git
-
-Setting up your SSH Keys: https://help.github.com/articles/generating-ssh-keys/
 
 ## Lets Fork our first project on Github!
 Click the fork button on the top right of this page!
 
 
 ## Overview of HTML
-  1. Talk through index.html file
-    a. Tags
-    b. Structure of an HTML page
-    c. Headings, Div's, img's and href's
-  2. Edit index.html file
-    a. don't be Scared!
-  3. Write a commit message
-  4. Commit file
+- tags
+- elements
+- attributes
+
+####HTML tags:
+Tags are used to mark up the beginning and end of an HTML element.
+
+```
+<div></div>
+```
+
+####HTML elements:
+An element in HTML represents some kind of structure, generally and element
+consists of a start tag, content, and an end tag.
+
+  ```html
+  <p>This is an element, it consists of p tags and content.</p>
+  ```
+
+####HTML attributes:
+HTML attributes generally appear as name-value pairs. The most common attributes
+are
+- id "id is used on only a single element"
+- class  "class can be used on multiple elements"
+- src "provides the location of an asset that element needs"
+- href "specifies a link destination"
+
 
 
 ## Overview of CSS
+- Specificity
+- id's vs Classes
+- syntax
 
-  1. Talk through style.css file
-    a. Tags VS Classes
-    b. CSS Heirarchy
-    c. inline styling
-  2. Switch css reference in the index.html page to style.css
-  3. Change the background color
-  4. Change the font by finding a google font.
+
 
 
 
