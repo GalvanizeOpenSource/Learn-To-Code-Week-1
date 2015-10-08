@@ -2,7 +2,7 @@
 
 
 body {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Pacifico', sans-serif;
 	color: #e5e5e5;
 	font-size: 12px;
 	background:#bfbfbf;
@@ -12,7 +12,7 @@ body {
 
 
 h1, h2 {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Pacifico', sans-serif;
 	font-weight: 300;
 	margin:0 0 15px 0;
 }
@@ -54,8 +54,6 @@ a {
 
 }
 
-
-
 .section {
 	width: 100%;
 	max-width: 1600px;
@@ -67,6 +65,10 @@ a {
 	height: 500px;
 }
 
+.section img {
+	 width: auto;
+	 height: 50%;
+}
 
 .inner {
 	width: 960px;
@@ -124,7 +126,9 @@ a {
 	margin: 0;
 }
 
+/*.photoWrapper {
 
+}*/
 
 
 /* SECTIONS */
@@ -153,20 +157,4 @@ a {
 
 .s3 {
 	background: #1b83b3;
-}
-
-
-.s4 {
-	background: #5aa3c4;
-}
-
-
-
-.s5 {
-	background: #bce1f1;
-	color: #3d3d3d;
-}
-
-.s6 {
-	background: #161616;
 }

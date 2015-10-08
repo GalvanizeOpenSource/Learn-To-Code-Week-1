@@ -1,21 +1,18 @@
 # Learn-To-Code-Week-1
 
-
-
 ## Overview
 Our goal this week is to setup our developer environment and link it to our github account for
-maximum developer points. We'll also download the Atom text editor and get next weeks
-curriculum on our computer.
-
+maximum developer points. We'll also download the Atom text editor and do a little
+bit of coding.
 
 
 Here's what we'll be doing:
 
-#### Signing up for github and learning about git
-#### Forking and cloning our first project
 #### Overview of basic HTML concepts
 #### Overview of CSS concepts
-
+#### Signing up for github and learning about git
+#### Forking and cloning our first project
+#### Editing HTML/CSS and pushing code back up to Github.
 
 
 ## Overview of HTML
@@ -74,32 +71,38 @@ Now lets look at the css!
 }
 ```
 
-## Signing up for Github!
-Click the green signup button on the top of this page and open it in a new tab.
-Signup for your github then come back to this tab and refresh your browser account
-and find your way back to this page!
 
-### What is git?
+
+
+## What is git?
 Git is a piece of software that allows you to edit and collaborate on projects
 regardless of your teams location. With Git, you and your team can all be working
 on the same codebase without having to worry about who's doing what in which order.
 
-Download Atom
-https://atom.io/
 
-Click "Clone in Desktop"
--Follow Prompts to install
-
-## Lets Fork our first project on Github!
-Click the fork button on the top right of this page!
+#Sign up for Github!
+- Open a new tab in your browser and go to GitHub.com
+- Click the green signup button on the top of this page.
+- Confirm your account by clicking the confirmation link in your email
 
 
-##Change the Font in this project!
+#Lets Fork and Clone our first project on Github!
+- Click the fork button on the top right of this page!
+- Click "Clone in Desktop"
+- Follow Prompts to install the GitHub App
 
-##Change the name of the site
+#Get a text editor!
+- Download [https://atom.io/](Atom)
 
-##Change all the navigation links
 
-##Change all the section headers
+##Extra Credit
+- Change the Font in this project!
 
-#Questions!
+- Change the name of the site
+
+- Change all the navigation links
+
+- Change all the section headers
+
+
+#Question Time!
