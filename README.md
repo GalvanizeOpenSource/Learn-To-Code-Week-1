@@ -93,4 +93,13 @@ Click "Clone in Desktop"
 ## Lets Fork our first project on Github!
 Click the fork button on the top right of this page!
 
+
+##Change the Font in this project!
+
+##Change the name of the site
+
+##Change all the navigation links
+
+##Change all the section headers
+
 #Questions!
