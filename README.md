@@ -72,8 +72,6 @@ Now lets look at the css!
 ```
 
 
-
-
 ## What is git?
 Git is a piece of software that allows you to edit and collaborate on projects
 regardless of your teams location. With Git, you and your team can all be working
@@ -95,13 +93,19 @@ on the same codebase without having to worry about who's doing what in which ord
 - Download [https://atom.io/](Atom)
 
 
+##Change the Font to something from Google Fonts
+- Navigate to google fonts: https://www.google.com/fonts
+- Find a font you like and click "add to collection".
+- On the bottom right side of your screen click "use".
+- On the use page, scroll down to number three and copy the link tag provided.
+- Paste that link tag in your index.html file with the new link tag you copied from google fonts.
+- Copy the code under number four.
+- Paste that code into your stylesheet! (BONUS: Where should you paste this?)
+
 ##Extra Credit
-- Change the Font in this project!
-
+- Make this site your own
 - Change the name of the site
-
 - Change all the navigation links
-
 - Change all the section headers
 
 
