@@ -107,7 +107,15 @@ on the same codebase without having to worry about who's doing what in which ord
 ##The User wants some changes
 - Change the name of the site
 - Change all the navigation links & Section Headers
-- How do I embed an image
+- Embed an image
+
+##Open Your Project in Atom
+
+##Make some changes
+
+##Commit and Push to Github
+
+
 
 
 #Question Time!
