@@ -73,6 +73,7 @@ Now lets look at the css!
 
 
 ## What is git?
+Cookie Recipie Metaphor
 Git is a piece of software that allows you to edit and collaborate on projects
 regardless of your teams location. With Git, you and your team can all be working
 on the same codebase without having to worry about who's doing what in which order.
@@ -89,6 +90,7 @@ on the same codebase without having to worry about who's doing what in which ord
 - Click "Clone in Desktop"
 - Follow Prompts to install the GitHub App
 
+
 #Get a text editor!
 - Download [https://atom.io/](Atom)
 
@@ -102,11 +104,10 @@ on the same codebase without having to worry about who's doing what in which ord
 - Copy the code under number four.
 - Paste that code into your stylesheet! (BONUS: Where should you paste this?)
 
-##Extra Credit
-- Make this site your own
+##The User wants some changes
 - Change the name of the site
-- Change all the navigation links
-- Change all the section headers
+- Change all the navigation links & Section Headers
+- How do I embed an image
 
 
 #Question Time!
