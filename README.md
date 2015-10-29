@@ -73,17 +73,17 @@ Now lets look at the css!
 
 
 ## What is git?
-Cookie Recipie Metaphor
 Git is a piece of software that allows you to edit and collaborate on projects
 regardless of your teams location. With Git, you and your team can all be working
 on the same codebase without having to worry about who's doing what in which order.
 
 
+Topic: talk about the cookie receipie metaphor
+
 #Sign up for Github!
 - Open a new tab in your browser and go to GitHub.com
 - Click the green signup button on the top of this page.
 - Confirm your account by clicking the confirmation link in your email
-
 
 #Lets Fork and Clone our first project on Github!
 - Click the fork button on the top right of this page!
@@ -91,7 +91,7 @@ on the same codebase without having to worry about who's doing what in which ord
 - Follow Prompts to install the GitHub App
 
 
-#Get a text editor!
+#Get the Atom text editor!
 - Download [https://atom.io/](Atom)
 
 
@@ -102,14 +102,14 @@ on the same codebase without having to worry about who's doing what in which ord
 - On the use page, scroll down to number three and copy the link tag provided.
 - Paste that link tag in your index.html file with the new link tag you copied from google fonts.
 - Copy the code under number four.
-- Paste that code into your stylesheet! (BONUS: Where should you paste this?)
+- Paste that code into your stylesheet!
 
 ##The User wants some changes
 - Change the name of the site
 - Change all the navigation links & Section Headers
-- Embed an image
+- Replace my images with your own images
+- Push changes to github
 
-##Open Your Project in Atom
 
 ##Make some changes
 
