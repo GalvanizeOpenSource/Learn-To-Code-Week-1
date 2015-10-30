@@ -55,7 +55,7 @@ What Does CSS Stand for?
 
 
 ####id's vs Classes
-Classes are used when you need to style multiple elemnets in a document, while
+Classes are used when you need to style multiple elements in a document, while
 id's are used to style specific elements on a page.
 
 ####Syntax
@@ -78,7 +78,7 @@ regardless of your teams location. With Git, you and your team can all be workin
 on the same codebase without having to worry about who's doing what in which order.
 
 
-Topic: talk about the cookie receipie metaphor
+Topic: talk about the cookie recipe metaphor
 
 #Sign up for Github!
 - Open a new tab in your browser and go to GitHub.com
