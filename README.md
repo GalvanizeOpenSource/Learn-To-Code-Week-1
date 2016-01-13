@@ -115,7 +115,8 @@ Topic: talk about the cookie receipie metaphor
 
 ##Commit and Push to Github
 
-
-
+#Sign Up for Slack
+- Join the Learn to Code Slack channel to continue learning and discussing the concepts that were covered today.
+- Click [here]( http://ltcslack-slackinvite.rhcloud.com/) to register!
 
 #Question Time!
