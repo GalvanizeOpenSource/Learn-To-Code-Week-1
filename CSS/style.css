@@ -2,7 +2,7 @@
 
 
 body {
-	font-family: 'Coming Soon', cursive;
+	font-family: 'Maven Pro', sans-serif;
 	color: #e5e5e5;
 	font-size: 12px;
 	background:#bfbfbf;
@@ -10,9 +10,8 @@ body {
 
 }
 
-
 h1, h2 {
-	font-family: 'Coming Soon', cursive;
+	font-family: 'Maven Pro', sans-serif;
 	font-weight: 300;
 	margin:0 0 15px 0;
 }
