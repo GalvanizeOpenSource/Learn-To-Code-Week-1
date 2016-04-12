@@ -13,6 +13,9 @@ Here's what we'll be doing:
 #### Signing up for github and learning about git
 #### Editing HTML/CSS
 
+#Get Google Chrome
+- Download at... Google
+
 #Get the Atom text editor!
 - Download [https://atom.io/](Atom)
 
@@ -76,7 +79,7 @@ are
 What Does CSS Stand for?
 
 ####id's vs Classes
-Classes are used when you need to style multiple elemnets in a document, while
+Classes are used when you need to style multiple elements in a document, while
 id's are used to style specific elements on a page.
 
 ####Syntax
