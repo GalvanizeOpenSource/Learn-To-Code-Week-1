@@ -7,12 +7,37 @@ bit of coding.
 
 
 Here's what we'll be doing:
-
+#### Setting up our computers
 #### Overview of basic HTML concepts
 #### Overview of CSS concepts
 #### Signing up for github and learning about git
-#### Forking and cloning our first project
-#### Editing HTML/CSS and pushing code back up to Github.
+#### Editing HTML/CSS
+
+#Get Google Chrome
+- Download at... Google
+
+#Get the Atom text editor!
+- Download [https://atom.io/](Atom)
+
+#Sign up for Github!
+- Open a new tab in your browser and go to GitHub.com
+- Click the green signup button on the top of this page.
+- Confirm your account by clicking the confirmation link in your email
+
+## Download the class files
+- Go to https://github.com/GalvanizeOpenSource/Learn-To-Code-Week-1
+- Click on the button on the right-hand side that says "Download ZIP"
+- Go to your downloads folder and double click on the .zip file to unzip it
+- IMPORTANT! leave all the individual files in the downloaded folder (if you would like to move it out of the downloads folder move the entire folder, not individual items)
+- From atom file > open, select the folder and then click open
+- From atom if the file tree does not appear on the left hand View > Toggle Tree View -- this will show you the entire folder within atom
+
+Now if you already know some of what we're talking about you're all set to poke around in the files -- index.html and style.css are the two files we will be making changes to later.
+
+## What is git?
+Git is a piece of software that allows you to edit and collaborate on projects
+regardless of your teams location. With Git, you and your team can all be working
+on the same codebase without having to worry about who's doing what in which order.
 
 
 ## Overview of HTML
@@ -53,9 +78,8 @@ are
 ####Specificity
 What Does CSS Stand for?
 
-
 ####id's vs Classes
-Classes are used when you need to style multiple elemnets in a document, while
+Classes are used when you need to style multiple elements in a document, while
 id's are used to style specific elements on a page.
 
 ####Syntax
@@ -72,29 +96,6 @@ Now lets look at the css!
 ```
 
 
-## What is git?
-Git is a piece of software that allows you to edit and collaborate on projects
-regardless of your teams location. With Git, you and your team can all be working
-on the same codebase without having to worry about who's doing what in which order.
-
-
-Topic: talk about the cookie receipie metaphor
-
-#Sign up for Github!
-- Open a new tab in your browser and go to GitHub.com
-- Click the green signup button on the top of this page.
-- Confirm your account by clicking the confirmation link in your email
-
-#Lets Fork and Clone our first project on Github!
-- Click the fork button on the top right of this page!
-- Click "Clone in Desktop"
-- Follow Prompts to install the GitHub App
-
-
-#Get the Atom text editor!
-- Download [https://atom.io/](Atom)
-
-
 ##Change the Font to something from Google Fonts
 - Navigate to google fonts: https://www.google.com/fonts
 - Find a font you like and click "add to collection".
@@ -108,14 +109,8 @@ Topic: talk about the cookie receipie metaphor
 - Change the name of the site
 - Change all the navigation links & Section Headers
 - Replace my images with your own images
-- Push changes to github
-
 
 ##Make some changes
-
-##Commit and Push to Github
-
-
 
 
 #Question Time!
