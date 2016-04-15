@@ -1,17 +1,22 @@
-# Learn-To-Code-Week-1
+# Learn to Code HTML & CSS
+Brought to you by Galvanize. Learn more about the way we teach code at <a href=//galvanize.com>galvanize.com</a>.
 
 ## Overview
-Our goal this week is to setup our developer environment and link it to our github account for
-maximum developer points. We'll also download the Atom text editor and do a little
-bit of coding.
+The goal of this brief course is to provide you with a fun introduction to the world of web development, starting with HTML and CSS. 
 
+#### Here's what we'll be doing:
+* Setting up our computers for web development
+* Overview of basic HTML concepts
+* Overview of CSS concepts
+* Playing around in the sandbox
 
-Here's what we'll be doing:
-#### Setting up our computers
-#### Overview of basic HTML concepts
-#### Overview of CSS concepts
-#### Signing up for github and learning about git
-#### Editing HTML/CSS
+#### Before you begin, a quick gut check:
+* This course is for absolute beginners
+* Feel free to move ahead
+* Help others when you can
+* Be patient and nice
+* You will get through it!
+
 
 #Get Google Chrome
 - Download at... Google
