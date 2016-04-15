@@ -17,17 +17,22 @@ The goal of this brief course is to provide you with a fun introduction to the w
 * Be patient and nice
 * You will get through it!
 
+### What web coding is (really)?
+Recipes to give to your computer to “cook” up some awesome things for you online
 
-#Get Google Chrome
-- Download at... Google
+## Setting up your computer
+(Brace yourself...)
 
-#Get the Atom text editor!
-- Download [https://atom.io/](Atom)
+Please set up the following:
+* A web browser to see what we're working on as others see it (Recommend Google Chrome: [chrome.google.com] (chrome.google.com))
+* A text editor to modify your files (Recommend the Atom text editor: [atom.io](Atom.io))
+* Download the tutorial files on this page within the zip file 
 
-#Sign up for Github!
-- Open a new tab in your browser and go to GitHub.com
-- Click the green signup button on the top of this page.
-- Confirm your account by clicking the confirmation link in your email
+Patience! Setting up your computer takes time and can be tricky, especially across platforms.
+
+Once you're ready, you can move onto the next lesson.
+
+## H.T.M.L. - "the building blocks of the internet"
 
 ## Download the class files
 - Go to https://github.com/GalvanizeOpenSource/Learn-To-Code-Week-1
