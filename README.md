@@ -29,14 +29,13 @@ Please set up the following:
 * Download the tutorial files on this page within the zip file  
 
 ###### Download the files for this class:
-- Go to https://github.com/GalvanizeOpenSource/Learn-To-Code-HTML-CSS
-- Click on the button on the right-hand side that says "Download ZIP"
-- Go to your downloads folder and double click on the .zip file to unzip it
-- IMPORTANT! leave all the individual files in the downloaded folder (if you would like to move it out of the downloads folder move the entire folder, not individual items)
-- From Atom: file > open, select the folder and then click "Open"
-- From Atom: if the file tree does not appear on the left hand View > Toggle Tree View -- this will show you the entire folder within Atom
-- *Now if you already know some of what we're talking about,* you're all set to poke around in the files -- index.html and CSS/style.css are the two files we will using.
-
+1. Go to https://github.com/GalvanizeOpenSource/Learn-To-Code-HTML-CSS
+2. Click on the button on the right-hand side that says "Download ZIP"
+3. Go to your downloads folder and double click on the .zip file to unzip it
+4. IMPORTANT! Leave all the individual files in the downloaded folder (if you would like to move it out of the downloads folder move the entire folder, not individual items)
+5. From Atom: file > open, select the folder and then click "Open"
+6. From Atom: if the file tree does not appear on the left hand View > Toggle Tree View -- this will show you the entire folder within Atom
+7. *Now if you already know some of what we're talking about,* you're all set to poke around in the files -- index.html and CSS/style.css are the two files we will using.
 
 Patience! Setting up your computer takes time and can be tricky, especially across platforms.
 
@@ -59,17 +58,17 @@ e.g. Element = <tag attribute=”blahblah”>content content</tag>
 Tags are used to mark up the beginning and end of an HTML element.
 
 Almost everything in HTML needs to start and end with a tag
-Everything is wrapped like layers of an onionm `<opened>` and `</closed>`
-e.g. `<div>”Hello!”</div>`
-Note: not every tag is like this!
+Everything is wrapped like layers of an onion, `<opened>` and `</closed>`
+- e.g. `<div>”Hello!”</div>`
+- *Note: not every tag is like this!*
 
-*Common Tags:*
-`<html></html>` designates document as HTML
-`<div></div>` notes a block element in the page
-`<a></a>` anchor, activates a link in the page
-`<head></head>` contains meta information
-`<body></body>` contains browser information
-`<span></span>` notes an inline element
+Common Tags:
+- `<html></html>` designates document as HTML
+- `<div></div>` notes a block element in the page
+- `<a></a>` anchor, activates a link in the page
+- `<head></head>` contains meta information
+- `<body></body>` contains browser information
+- `<span></span>` notes an inline element
 
 Irregular Tags:
 - `<img />` creates an image in the page
@@ -79,18 +78,6 @@ Irregular Tags:
 - `<input />` creates an input field
 
 #### HTML Attributes:
-
-
-
-#### HTML Elements:
-An element in HTML represents some kind of structure, generally and element
-consists of a start tag, perhaps some attributes, some content, and an end tag.
-
-  ```html
-  <p>This is an element, it consists of p tags and content.</p>
-  ```
-
-#### HTML attributes:
 HTML attributes inform the browser on what to do with a tagged piece of content.
 Attributes generally appear as name-value pairs. 
 ```
@@ -102,19 +89,49 @@ The most common attributes are:
 - href=”” - hyperlink reference to an internal or external link
 - src=”” - source file to an image, video, etc.
 - style=”” - add some color, font, margins, etc.
-^ There’s a MUCH better way to do this via CSS - more on that later!
+- ^ *There’s a MUCH better way to do this via CSS - more on that later!*
 
 How do we check elements for whether they're talking to the browser? Use the **inspect element** feature!
 
+But... how do we make HTML... better?
+
 ## Overview of CSS
-- Specificity
-- id's vs Classes
-- syntax
 
-####Specificity
 What Does CSS Stand for?
+- Cascading - prioritizing certain values over others
+- Style - focusing on layout, colors, fonts, etc.
+- Sheet - another name for the file we use here
 
-####id's vs Classes
+The internet used to be ugly. Enter CSS - a consolidated way to make it prettier.
+
+Three primary objects:
+- Elements: e.g. h1, div, body, a - default HTML (already reviewed)
+- IDs: everything that starts with a “#”
+- Classes: everything that starts with a “.”
+
+Syntax of CSS:
+```
+h1 {  // this is either an element, class, or ID
+	font-size: 24px; // syntax is name: value;
+	font-weight: bold;
+	color: #000000; // hexadecimal, RGB, etc.
+}
+```
+Space doesn’t matter, but “onion” rules apply
+
+#### What are IDs?
+IDs are attributes that are used only on one element ONLY and noted with a “#” symbol in CSS
+e.g.
+```
+HTML: <a id=”leesName”>Lee Ngo</a>
+CSS: #leesName { color: white; }
+```
+IDs are used to direct functions to unique elements in the HTML so that there’s no confusion
+
+ex: clicking to a specific part of page
+
+
+#### Ids vs Classes
 Classes are used when you need to style multiple elements in a document, while
 id's are used to style specific elements on a page.
 
