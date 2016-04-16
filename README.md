@@ -134,7 +134,7 @@ CSS:
 ```
 IDs are used to direct functions to unique elements in the HTML so that there’s no confusion
 
-&e.g clicking to a specific part of page*
+*e.g clicking to a specific part of page*
 
 #### What are Classes?
 
