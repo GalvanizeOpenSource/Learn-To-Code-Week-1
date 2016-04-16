@@ -2,17 +2,13 @@
 
 
 body {
-	font-family: 'Coming Soon', cursive;
 	color: #e5e5e5;
 	font-size: 12px;
 	background:#bfbfbf;
-
-
 }
 
 
 h1, h2 {
-	font-family: 'Coming Soon', cursive;
 	font-weight: 300;
 	margin:0 0 15px 0;
 }
@@ -39,7 +35,6 @@ a {
 }
 
 
-
 .clear {
 	clear: both;
 }
@@ -51,7 +46,6 @@ a {
 	position: relative;
 	margin: 0 auto;
 	padding: 0;
-
 }
 
 .section {
@@ -138,13 +132,11 @@ a {
 	color:#3d3d3d;
 	padding: 50px 0;
 	height: 300px;
-
 }
 
 .s1 {
 	background:#184764;
 	color:#fff;
-
 }
 
 
