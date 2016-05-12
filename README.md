@@ -108,6 +108,7 @@ Topic: talk about the cookie receipie metaphor
 - Change the name of the site
 - Change all the navigation links & Section Headers
 - Replace my images with your own images
+- Add a video to your page
 - Push changes to github
 
 
